@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Калькулятор премии</string>
+    <string name="corn">Кукуруза</string>
+    <string name="soybeans">Соя</string>
+    <string name="sunflower">Подсолнечник</string>
+    <string name="harvest_level">Уровень урожая (т/га): </string>
+    <string name="calc_award">Расcчитать</string>
+    <string name="calc_award1">Расчёт премии\n(кг/га)</string>
+    <string name="calc_award2">Расчёт премии\n(т/100га)</string>
+    <string name="calc_award3">Расчёт премии\n(тыс.руб/100га) при</string>
+    <string name="calc_award4">Расчёт премии\n(тыс.руб/100га) при</string>
+</resources>
